@@ -1,0 +1,19 @@
+{
+  "name": "webstudio-boilerplate",
+  "version": "1.0.0",
+  "description": "Kean University Webstudio Boilerplate for starting web applications and sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rskwiat/webstudio-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rskwiat/webstudio-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rskwiat/webstudio-boilerplate#readme"
+}
